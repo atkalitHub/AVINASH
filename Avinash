@@ -6,8 +6,8 @@
     "license_valid_days": 30
   },
   {
-    "user_id": "YOUR_ANOTHER_USER_ID",
-    "license_key": "YOUR_ANOTHER_MAC_HASH",
+    "user_id": "RAVI",
+    "license_key": "87AFF31A8076804F",
     "expiry_date": "2025-12-31",
     "license_valid_days": 180
   }
