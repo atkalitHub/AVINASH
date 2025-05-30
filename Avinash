@@ -1,7 +1,6 @@
 {
   "user_id": "anotheruser",
   "license_key": "YOUR_MACHINE_FINGERPRINT_ID_2",
-  "valid_status": "active",
   "expiry_date": "2026-06-30",
-  "license_duration_days": 730
+  "license_valid_days": 30
 }
