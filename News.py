@@ -1,4 +1,3 @@
-news_text = """
         ✨ Welcome to Gemini AI! Your Intelligent Automation Partner.
 
         Developed by our dedicated team: Avinash, Power, & Amit Roy.
@@ -11,4 +10,4 @@ news_text = """
         Anticipate more advanced features and performance improvements in upcoming releases.
         For immediate assistance or any technical inquiries, please reach out to our support team.
         Your valuable feedback and cooperation are greatly appreciated as we evolve.
-    """
+   
